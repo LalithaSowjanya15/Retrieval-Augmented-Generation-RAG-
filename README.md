@@ -1,1 +1,1 @@
-# Retrieval-Augmented-Generation-RAG-
+# Team4-SLM-Learning-Journey
